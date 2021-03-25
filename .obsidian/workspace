@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "f193326420883fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de15b85a7907bd7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design/Ch.3研究方法.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60702f559fc91e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "d577712d8eb92a9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "277433fa51fbff96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48b363ec51283769",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db35b0f7b614eb91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "18ebd45b0cc7bffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4123c4ddbf1ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4156d57c510720cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design/Ch.3研究方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "120c3c874a5fabee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Design/Ch.3研究方法.md",
+    "Design/3. 眼動.md",
+    "Design/1. 實驗設計.md",
+    "Design/0. ongoing.md",
+    "Design/2. 文本.md"
+  ]
+}
