@@ -6,10 +6,12 @@
       {
         "id": "961d59abc06ccba9",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Design/Ch.3研究方法.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,9 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design/Ch.3研究方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design/Ch.3研究方法.md"
+              }
             }
           }
         ]
@@ -108,11 +115,12 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "961d59abc06ccba9",
   "lastOpenFiles": [
-    "Untitled.md",
     "Design/Ch.3研究方法.md",
-    "Design/0. ongoing.md",
     "Design/1. 實驗設計.md",
+    "Design/0. ongoing.md",
+    "Untitled.md",
     "Design/2. 文本.md",
     "Design/github test.md",
     "Design/3. 眼動.md"
