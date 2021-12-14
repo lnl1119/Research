@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "cssTheme": "Wasp",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "translucency": true
 }
