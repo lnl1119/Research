@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "961d59abc06ccba9",
+        "id": "9d1fa3c4793a0e24",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Design/0. ongoing.md",
-            "mode": "source"
-          }
-        },
-        "group": "a1e2c220d5290e82"
-      },
-      {
-        "id": "ef2d8107130cdccb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Design/0. ongoing.md",
-            "mode": "preview"
-          }
-        },
-        "group": "a1e2c220d5290e82"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/0. ongoing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Design/0. ongoing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef2d8107130cdccb",
+  "active": "9d1fa3c4793a0e24",
   "lastOpenFiles": [
     "Design/0. ongoing.md",
     "Reference/Untitled.md",
