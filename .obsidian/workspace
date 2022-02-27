@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1fa3c4793a0e24",
+        "id": "2bafe35e753a15d0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -109,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d1fa3c4793a0e24",
+  "active": "2bafe35e753a15d0",
   "lastOpenFiles": [
     "Design/0. ongoing.md",
     "Reference/Untitled.md",
